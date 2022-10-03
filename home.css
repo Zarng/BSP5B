@@ -1,0 +1,149 @@
+img,.image{
+    position: relative;
+}
+
+.welcome{
+    color:black;
+    font-size: 50px;
+    position:absolute;
+    top:60px;
+    left: 150px;
+}
+.image{
+    border-radius: 10px;
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    width: 500px;
+    height: 700px;
+}
+.zoo{
+    font-size: 30px;
+    color: aliceblue;
+    position: absolute;
+    top: 20%;
+    left: 12%;
+}
+.G{
+    font-size: 150px;
+    position: absolute;
+    color: whitesmoke;
+    top: 80%;
+    left: 12%;
+}
+.B{
+    position: absolute;
+    border: 1px solid white;
+    color: white;
+    font-size: 23px;
+    border-radius: 15px;
+    top: -1%;
+    right: 1%;
+}
+.N{
+    position: absolute;
+    border: 1px solid white;
+    color: white;
+    font-size: 30px;
+    top: 121%;
+    right: 1%;
+}
+.E{
+    position: absolute;
+    border: 2px solid white;
+    background-color: rgb(24, 228, 239);
+    border-radius: 20px;
+    padding-bottom: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    font-size: 30px;
+    right: 100px;
+    top: 100px;
+}
+.Email{
+    border-radius: 20px;
+    position: absolute;
+    border: 1px solid white;
+    font-size: 10px;
+    color: rgb(244, 227, 227);
+    background-color: rgb(205, 170, 170);
+    padding-right: 70px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    right: 180px;
+    top: 190px;
+
+}
+.Name{
+    border-radius: 20px;
+    position: absolute;
+    border: 1px solid white;
+    background-color: rgb(205, 170, 170);
+    color: rgb(244, 227, 227);
+    padding-right: 86px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 10px;
+    right: 180px;
+    top: 240px;
+}
+.A{
+    border-radius: 20px;
+    position: absolute;
+    border: 1px solid white;
+    font-size: 10px;
+    color: rgb(244, 227, 227);
+    background-color: rgb(205, 170, 170);
+    top: 290px;
+    right: 180px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 135px;
+    padding-bottom: 10px;
+
+
+}
+.S{
+    border-radius: 20px;
+    position: absolute;
+    border: 1px solid rgb(10, 192, 10);
+    background-color: rgb(12, 170, 12);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 30px;
+    top: 350px;
+    right: 250px;
+}
+.R{
+    border-radius: 20px;
+    position: absolute;
+    border: 1px solid rgb(127, 162, 127);
+    background-color: rgb(127, 162, 127);
+    padding-left:10px ;
+    padding-right: 20px;
+    font-size: 30px;
+    top: 350px;
+    right: 130px;
+}
+.D{
+    position: absolute;
+    font-size: 13px;
+    top: 156px;
+    right: 260px;
+}
+.K{
+    color: white;
+    background-color: white;
+    position: absolute;
+    border: 1px solid black;
+    padding-right: 4px;
+    padding-left: 4px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    top: 340px;
+    right: 350px;
+
+}

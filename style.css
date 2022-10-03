@@ -1,0 +1,19 @@
+body{
+    background-color: wheat;
+}
+h1, h2, .text-green, #id-green{
+
+    color: yellowgreen !important; 
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px brown solid;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 50px;
+}
+h1:hover{
+    color: aquamarine;
+    border: 3px greenyellow solid;
+    background-color: deeppink;
+    text-align: right;
+}
